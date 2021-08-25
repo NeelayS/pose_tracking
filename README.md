@@ -17,7 +17,7 @@ Pose tracking for a collection of videos using [AlphaPose](https://github.com/MV
 4. `sudo apt-get install libyaml-dev`
 5. `python setup.py build develop` (<b>Hack:</b> If AlphaPose doesn't build properly after executing this command, doing it again works)
 6. Run the `get_weights.py` script to download pre-trained model weights
-7. Run `process_videos.py` (<b>Note:</b> All paths specified as arguments to the script must be absolute right from `root(/)` for OpenCV to work)
+7. Run `process_videos.py` 
 
 <br>
 
