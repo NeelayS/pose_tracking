@@ -61,10 +61,7 @@ Example arguments for the `process_videos.py` script -
 
 <br>
 
-<b>Note:</b> OpenCV is used for visualization purposes. If you wish to make use of the visualization functioanlity, installing OpenCV from source on your system is recommended.
+<b>Note:</b> OpenCV is used for visualization purposes. If you wish to make use of the visualization functionality, installing OpenCV from source on your system is recommended.
 You may refer to the following blogs for instructions on how to install OpenCV from source on Ubuntu -
 - [https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html](https://docs.opencv.org/master/d7/d9f/tutorial_linux_install.html)
 - [https://linuxize.com/post/how-to-install-opencv-on-ubuntu-18-04/](https://linuxize.com/post/how-to-install-opencv-on-ubuntu-18-04/)
-
-
-<br><br>
